@@ -3,17 +3,15 @@ Extending the Redux "shopping-cart" app from the redux docs
 
 [Redux docs](http://redux.js.org/docs/introduction/Examples.html#shopping-cart)
 
-# Run
+## Run
 
-0. download repo
-0. install
-
+* download repo
+* go to the project's root directory
+* install 
 ```
 npm install
 ```
-
-0. run
-
+* run
 ```
 npm start
 ```
